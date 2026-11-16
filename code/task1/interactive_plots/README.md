@@ -1,3 +1,5 @@
+landing page : https://scriptsentry.github.io/Group12_OCT_CSE475/code/task1/interactive_plots/?utm_source=chatgpt.com
+
 # Task 1 – Interactive OCT Plots
 
 Open the interactive visualizations below. These are standalone Plotly HTML files.
